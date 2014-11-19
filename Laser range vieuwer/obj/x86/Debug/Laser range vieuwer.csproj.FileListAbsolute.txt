@@ -1,0 +1,7 @@
+W:\Laser-Range-Viewer\Laser range vieuwer\bin\Debug\Laser range vieuwer.exe
+W:\Laser-Range-Viewer\Laser range vieuwer\bin\Debug\Laser range vieuwer.pdb
+W:\Laser-Range-Viewer\Laser range vieuwer\obj\x86\Debug\Laser_range_vieuwer.Form1.resources
+W:\Laser-Range-Viewer\Laser range vieuwer\obj\x86\Debug\Laser_range_vieuwer.Properties.Resources.resources
+W:\Laser-Range-Viewer\Laser range vieuwer\obj\x86\Debug\Laser range vieuwer.csproj.GenerateResource.Cache
+W:\Laser-Range-Viewer\Laser range vieuwer\obj\x86\Debug\Laser range vieuwer.exe
+W:\Laser-Range-Viewer\Laser range vieuwer\obj\x86\Debug\Laser range vieuwer.pdb
